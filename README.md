@@ -1,6 +1,10 @@
 # 122107
 Project-assasin
 
+$ git clone https://github.com/killersin122107/122107.git
+Username: killersin122107
+Password: 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
+
 
 $ git remote add origin https://github.com/killersin122107/122107.git
 # Set a new remote
